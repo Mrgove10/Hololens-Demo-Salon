@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 212c6fafaf1a5034da27397c3cec11d5
+timeCreated: 1509904213
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CenterText: {instanceID: 0}
+  - BottomRightText: {instanceID: 0}
+  - SphereBluePrefab: {fileID: 1372504075648296, guid: 3d4bd218677789a46ab6c24caf87e6c8,
+      type: 2}
+  - SphereVertPrefab: {fileID: 1262308970953962, guid: c7ce746776110234a824ff339731e438,
+      type: 2}
+  - SphereRougePrefab: {fileID: 1051483218825918, guid: 5b19c14e7903a7a43876cef977fbfd86,
+      type: 2}
+  - Cursor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
